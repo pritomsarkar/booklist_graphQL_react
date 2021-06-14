@@ -3,9 +3,5 @@ body {
   padding: 0;
   box-sizing: border-box;
   font-family: "Baloo Tammudu 2", cursive;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  background: #eee;
 }
