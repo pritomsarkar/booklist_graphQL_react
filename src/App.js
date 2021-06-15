@@ -8,7 +8,7 @@ import AddBook from "./components/AddBook";
 
 // apollo client setup
 const client = new ApolloClient({
-  uri: "http://localhost:6008/graphql",
+  uri: "https://book-reading-lst.herokuapp.com/graphql",
 });
 
 class App extends Component {
